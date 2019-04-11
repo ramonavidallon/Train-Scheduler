@@ -1,0 +1,24 @@
+.jumbotron {
+    font-family: 'Anton', sans-serif;
+    color: whitesmoke;
+    background-color: navy;
+    text-align: center;
+}
+.lead {
+    background-color: navy;
+}
+
+
+h3 {
+    font-family: 'Hind Siliguri', sans-serif;
+
+}
+
+th {
+    font-family: 'Hind Siliguri', sans-serif;
+
+}
+
+label {
+    font-family: 'Hind Siliguri', sans-serif;
+}
