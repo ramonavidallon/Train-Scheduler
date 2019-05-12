@@ -55,7 +55,7 @@
     var upcomingTrain = moment().add(remainingTime, "minutes");
     var formatTime = moment(upcomingTrain).format("HH:mm");
 
-    $("#schedule-table > tbody").append("<tr><td>" + trainName + "</td></td>" + destination + "</td><td>" + frequency + "</td><td>" + formatTime + "</td><td>"  + minutesTillTrain + "</td>");
+    $("#schedule-table > tbody").append("<tr><td>" + trainName + "</td><td>" + destination + "</td><td>" + frequency + "</td><td>" + formatTime + "</td><td>"  + minutesTillTrain + "</td></tr>");
 
 
   });
