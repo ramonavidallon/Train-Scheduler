@@ -20,7 +20,7 @@
   <li> CSS </li>
 </ul>
 
-<br><br>
+<br>
 <img width="1218" alt="Screen Shot 2019-08-14 at 3 02 10 PM" src="https://user-images.githubusercontent.com/43662571/63060291-b01c3d00-bea6-11e9-95ca-7100002a570d.png">
 
   
